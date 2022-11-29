@@ -8,6 +8,7 @@ After downloading the data, Exploratory Data Analysis was performed on the data,
 
 <br> 
 Three different types of approaches were taken to predict the House price:
+
   * Classification models(Naive Bayes and SVM) - The house prices were categorised by labelling them according to the intervals they fell into. 
     The models were trained and used to fit the data, but the accuracy was very less(around 25%).
  
